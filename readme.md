@@ -19,6 +19,8 @@ This is the Backend API TASK demo.
 3. Provide the information required in the `.env` file
 2. Use `npm run dev` to run the server locally
 
+## API DOCUMENTATION
+https://backend-task-api-doc.vercel.app
 
 ## SCHEMA
 
